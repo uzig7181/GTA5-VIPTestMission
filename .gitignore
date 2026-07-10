@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# IDE
+.vscode/
+.idea/
+
+# Log files
+*.log
+VIPTestMission.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+packages/
+.nuget/
+
+# User files
+local.config
+debug/
+release/
